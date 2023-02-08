@@ -1,0 +1,4 @@
+module test where
+f :: Int -> Int ;
+
+f = (3 * 4) + 5 ;
